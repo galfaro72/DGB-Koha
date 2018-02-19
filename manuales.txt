@@ -3,3 +3,4 @@ Guía de exportación e importación de ejemplares
 Guía de exportación e importación de usuarios
 Guía de exportación e importación de préstamos
 Manual del Módulo de Administración y Configuración de Koha
+Manual del Módulo de Adquisiciones
